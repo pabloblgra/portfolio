@@ -1,0 +1,15 @@
+---
+import Section from './Section.astro';
+
+const year = new Date();
+---
+
+<Section>
+	<footer class="text-center">
+		© {year.getFullYear()} - hecho con <span class="text-red-500">♥️</span> por <a
+			class="underline hover:text-orange-600"
+			href="https://www.linkedin.com/in/pabloblgra/"
+			target="_blank">Pablo</a
+		>
+	</footer>
+</Section>
