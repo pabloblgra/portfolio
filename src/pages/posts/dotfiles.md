@@ -18,6 +18,8 @@ Artículo en construcción.
 ### DOTFILES
 
 - hyprland
+  -hyrprlock
+- Waybar
 - NeoVim
   - init.lua
   - Plugins
