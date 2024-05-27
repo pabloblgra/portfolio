@@ -20,6 +20,7 @@ Artículo en construcción.
 - hyprland
   - hyrprlock
   - Hyprpaper
+  - Hyprpicker
 - Waybar
 - Fonts
 - NeoVim
