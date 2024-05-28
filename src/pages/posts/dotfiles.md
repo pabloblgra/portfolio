@@ -23,6 +23,8 @@ Artículo en construcción.
   - Hyprpicker
 - Waybar
 - Fonts
+- Alacritty
+- Icons
 - NeoVim
   - init.lua
   - Plugins
