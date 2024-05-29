@@ -21,6 +21,19 @@ Me atrajo que Arch fuese una Rolling Release pero su poblada wiki me hizo decidi
 
 Iré actualizando esta sección con el software que decidí usar en mi distro.
 
+## CLI
+
+- fzf
+- bat
+
+## Tui
+
+-
+
+## Gui
+
+-
+
 ---
 
 > I use Arch BTW
