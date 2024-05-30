@@ -24,6 +24,7 @@ Artículo en construcción.
 - Waybar
 - Fonts
 - Alacritty
+- .zshrc
 - Icons
 - NeoVim
   - init.lua
