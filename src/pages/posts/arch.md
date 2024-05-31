@@ -25,6 +25,7 @@ Iré actualizando esta sección con el software que decidí usar en mi distro.
 
 - fzf
 - bat
+- eza
 
 ## Tui
 
@@ -32,9 +33,7 @@ Iré actualizando esta sección con el software que decidí usar en mi distro.
 
 ## Gui
 
--
-
----
+- ***
 
 > I use Arch BTW
 
