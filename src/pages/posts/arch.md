@@ -26,6 +26,7 @@ Iré actualizando esta sección con el software que decidí usar en mi distro.
 - fzf
 - bat
 - eza
+- ripgrep
 
 ## Tui
 
